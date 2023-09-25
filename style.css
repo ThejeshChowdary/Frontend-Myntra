@@ -1,4 +1,4 @@
-//desktop
+/*Responsive for Desktop*/
 .topnav{
     margin-bottom: 10px;
     background-color: white;
@@ -73,7 +73,7 @@
     height: 400px;
 }
 #img,#img-1{
-    width: 148px;
+    width: 165px;
     height: 200px;
 }
 .budget{
@@ -126,7 +126,7 @@ h3{
     background-color: bisque;
     position:relative;
     float: left;
-    padding: 10px 9.2px 0px 9.2px;
+    padding: 10px 11px 0px 11px;
 }
 .bottom,.bottom-1{
     position: absolute;
@@ -137,7 +137,7 @@ h3{
     text-align: center;
 }
 #img1,#img1-1{
-    width: 129px;
+    width: 146px;
     height: 200px;
     background-color: rgb(128, 196, 255);
 }
@@ -159,20 +159,20 @@ h3{
     background-color: rgb(248, 181, 35);
 }
 #img2-1{
-    width: 130px;
+    width: 151px;
     height: 200px;
 }
 #img2-2{
-    width: 50px;
+    width: 70px;
     height: 30px;
     padding-left: 40px;
 }
 .container3{
-    width: 150px;
+    width: 171px;
     background-color: white;
 }
 #img3{
-    width: 150px;
+    width: 171px;
     height: 200px;
 }
 .container3 p{
@@ -194,7 +194,7 @@ h3{
     background-color: rgb(255, 174, 25);
 }
 #img4{
-    width: 300px;
+    width: 345px;
     height: 200px;
 }
 .card-body1,.card-body2{
@@ -212,21 +212,21 @@ h3{
 }
 #head{
     font-weight: 200;
-    padding: 20px 30px 0px 100px;
+    padding: 20px 30px 0px 150px;
 }
 #font{
     font-weight: 100;
     color: rgb(128, 128, 128);
-    padding: 0px 30px 30px 100px;
+    padding: 0px 30px 30px 150px;
 }
 #logo1{
-    margin-left: 75px;
+    margin-left: 120px;
 }
 #logo2{
     margin-bottom: 25px;
 }
 .social{
-    padding: 0px 30px 30px 100px;
+    padding: 0px 30px 30px 150px;
 }
 .social a{
     padding-right: 20px;
